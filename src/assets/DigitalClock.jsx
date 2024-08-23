@@ -1,3 +1,5 @@
+// Este projeto foi desenvolvido com base no tutorial "Build a DIGITAL CLOCK using React" de Bro Code no YouTube. 
+
 import React, {useState, useEffect} from "react";
 
 function DigitalClock(){
